@@ -1,0 +1,16 @@
+TYPE|NAME|PRICE|ITEM SOLD|TOTAL SALES
+================================================================
+Dessert|Chocolate Ice Cream|1.99|1|1.99|
+Dessert|Vanilla Ice Cream|1.99|0|0.00|
+Dessert|Ais Kacang|2.99|0|0.00|
+Dessert|Ais Kacang Special|3.99|0|0.00|
+Dessert|Onde Onde|2.99|0|0.00|
+Dessert|Karipap (x6)|1.99|2|3.98|
+Dessert|Ais Krim Malaysia|1.99|10|19.90|
+Sandwich|Egg Mayo|3.99|0|0.00|
+Sandwich|Egg Salad|3.99|0|0.00|
+Sandwich|Tuna Mayo|4.99|0|0.00|
+Sandwich|Tuna Melt|5.49|0|0.00|
+Sandwich|Roast Beef|5.49|0|0.00|
+Sandwich|Steak & Cheese|5.99|0|0.00|
+Sandwich|Veggie Delite|3.49|0|0.00|

@@ -1,0 +1,32 @@
+DRINK CATEGORY|NAME|PRICE(R)|PRICE(L)|ITEM SOLD|TOTAL SALES
+================================================================
+Coffee|Short Black Espresso|4.49|4.99|0|0.00|
+Coffee|Doppio|4.99|5.39|0|0.00|
+Coffee|Macchiato|4.69|5.29|0|0.00|
+Coffee|Ristretto|4.49|4.89|0|0.00|
+Coffee|Americano|4.49|4.89|0|0.00|
+Coffee|Cafe Latte|4.69|5.49|0|0.00|
+Coffee|Cappuccino|4.69|5.49|0|0.00|
+Coffee|Flat White|4.69|5.49|0|0.00|
+Coffee|Piccolo Latte|4.89|5.69|0|0.00|
+Coffee|Mocha|4.89|5.69|10|56.90|
+Coffee|Affogato|4.99|5.79|0|0.00|
+Coffee|Turkish Coffee|4.99|5.99|0|0.00|
+Coffee|Vienna Coffee|4.99|5.99|0|0.00|
+Coffee|Frappe|4.99|5.99|0|0.00|
+Coffee|Breve|4.69|5.39|0|0.00|
+Tea|Earl Grey|3.99|4.59|0|0.00|
+Tea|English Breakfast|3.99|4.59|0|0.00|
+Tea|Darjeeling|4.19|4.69|0|0.00|
+Tea|Assam|3.89|4.49|0|0.00|
+Tea|Ceylon|3.99|4.69|0|0.00|
+Tea|Green Tea|4.29|4.99|0|0.00|
+Tea|Yorkshire Tea|4.29|5.19|0|0.00|
+Tea|Fruit Tea|4.19|5.29|0|0.00|
+Tea|Rooibos|3.99|4.69|0|0.00|
+Tea|Decaffeinated|3.99|4.59|0|0.00|
+Tea|Chai Latte|4.19|4.99|0|0.00|
+Soft Drink|Orange Juice|3.49|3.99|0|0.00|
+Soft Drink|Apple Juice|3.49|3.99|0|0.00|
+Soft Drink|Lemonade|3.49|3.99|0|0.00|
+Soft Drink|Mineral Water|0.99|1.49|1|1.49|

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CreditCard
+comment1.params=amount
+comment1.target=CreditCard(double)
+comment2.params=
+comment2.target=void\ clearCard()
+comment3.params=
+comment3.target=void\ makePayment()
+comment4.params=
+comment4.target=boolean\ validateCard()
+comment5.params=
+comment5.target=boolean\ isCardNo()
+comment6.params=
+comment6.target=boolean\ isExpiryDate()
+comment7.params=
+comment7.target=boolean\ isCVC()
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Receipt
+comment1.params=order
+comment1.target=void\ confirmPrintReceipt(Order)
+comment2.params=order
+comment2.target=void\ printReceipt(Order)
+comment3.params=order
+comment3.target=java.lang.String\ toString(Order)
+numComments=4

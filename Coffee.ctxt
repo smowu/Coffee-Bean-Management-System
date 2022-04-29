@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Coffee
+comment1.params=
+comment1.target=Coffee()
+comment2.params=name\ priceR\ priceL\ sold\ sales
+comment2.target=Coffee(java.lang.String,\ double,\ double,\ int,\ double)
+numComments=3

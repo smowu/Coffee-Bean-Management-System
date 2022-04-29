@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Payment
+comment1.params=
+comment1.target=Payment()
+comment2.params=amount
+comment2.target=Payment(double)
+comment3.params=amount
+comment3.target=void\ setAmountToPay(double)
+comment4.params=paid
+comment4.target=void\ setAmountPaid(double)
+comment5.params=confirm
+comment5.target=void\ setConfirm(boolean)
+comment6.params=
+comment6.target=double\ getAmountToPay()
+comment7.params=
+comment7.target=double\ getAmountPaid()
+comment8.params=
+comment8.target=boolean\ getConfirm()
+comment9.params=amount
+comment9.target=Payment\ choosePayment(double)
+numComments=10

@@ -1,0 +1,31 @@
+ DAY|TOTAL SALES 
+========================================
+Monday|0.00|
+Tuesday|0.00|
+Wednesday|0.00|
+Thursday|0.00|
+Friday|0.00|
+Saturday|0.00|
+Sunday|0.00|
+
+ MONTH|TOTAL SALES 
+========================================
+January|0.00|
+February|0.00|
+March|0.00|
+April|0.00|
+May|0.00|
+June|0.00|
+July|0.00|
+August|0.00|
+September|0.00|
+October|0.00|
+November|0.00|
+December|0.00|
+
+ SALES DATA 
+========================================
+Total Items|0|
+Gross Sales|0|
+Gross Tax|0|
+Total Sales|0|

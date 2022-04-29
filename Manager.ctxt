@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=
+comment1.target=Manager()
+comment10.params=
+comment10.target=void\ confirmRestoreItems()
+comment2.params=id\ pass\ n\ ic\ email
+comment2.target=Manager(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ employeeData()
+comment5.params=
+comment5.target=void\ restoreAllItems()
+comment6.params=
+comment6.target=void\ dispEmployeeMenu()
+comment7.params=
+comment7.target=void\ manageItemsMenu()
+comment8.params=
+comment8.target=void\ manageItemsSelection()
+comment9.params=category
+comment9.target=void\ manageItems(int)
+numComments=11

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dessert
+comment1.params=
+comment1.target=Dessert()
+comment2.params=name\ price\ sold\ sales
+comment2.target=Dessert(java.lang.String,\ double,\ int,\ double)
+numComments=3

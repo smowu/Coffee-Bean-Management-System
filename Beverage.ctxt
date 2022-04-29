@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Beverage
+comment1.params=
+comment1.target=Beverage()
+comment2.params=name\ priceR\ priceL\ sold\ sales
+comment2.target=Beverage(java.lang.String,\ double,\ double,\ int,\ double)
+comment3.params=b
+comment3.target=Beverage(Beverage)
+comment4.params=size
+comment4.target=void\ setSize(char)
+comment5.params=iced
+comment5.target=void\ setIsIced(char)
+comment6.params=
+comment6.target=char\ getSize()
+comment7.params=
+comment7.target=boolean\ isIced()
+comment8.params=
+comment8.target=java.lang.String\ strIced()
+comment9.params=
+comment9.target=java.lang.String\ strItemName()
+numComments=10
